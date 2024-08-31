@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Nitish Shirodkar
-- 🔍 I am interested in robotics, machine learning, computer hardware, and electronics
+- 🔍 My interests include robotics, machine learning, computer hardware, electronic systems, and mathematics
 - 🏫 I am studying Computer Engineering at Georgia Tech
 - 📫 Feel free to contact me at nshirodkar@gatech.edu
 
