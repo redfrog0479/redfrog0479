@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Nitish Shirodkar
 - 🔍 My interests include robotics, machine learning, computer hardware, electronic systems, data science, and mathematics
 - 🏫 I am studying Computer Engineering at Georgia Tech
-- 📫 Feel free to contact me at nshirodkar@gatech.edu
+- 📫 Feel free to contact me at shirodkarnitish@gmail.com (personal email) or nshirodkar@gatech.edu (university email)
 
 <!--
 **redfrog0479/redfrog0479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
