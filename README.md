@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Nitish Shirodkar
-- 🔍 My interests include robotics, machine learning, full stack development, computer hardware, data science, and mathematics
+- 🔍 My interests include robotics, machine learning, full-stack development, and computer hardware
 - 🏫 I am studying Computer Engineering at Georgia Tech
 - 📫 Feel free to contact me at shirodkarnitish@gmail.com or nshirodkar@gatech.edu
 
